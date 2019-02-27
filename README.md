@@ -7,4 +7,4 @@ Navigates a site that requires a login -
 If the site has links to csvs it converts these to dataframes for manipulation.
 
 Use this as a base script for scrapers that require a username and password.
-Other scripts on GitHub can retrieve a dynamic key value that is required by the site.
+Other scripts on my GitHub can retrieve a dynamic key value that is required by the site.
